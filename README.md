@@ -9,4 +9,4 @@
 ### feature normalization (min max scalling)
 
 
-![Barchart](https://github.com/NoriKaneshige/linear_models_for_regression/blob/master/linear_models_for_regression.png)
+![linear_models_for_regression](https://github.com/NoriKaneshige/linear_models_for_regression/blob/master/linear_models_for_regression.png)
